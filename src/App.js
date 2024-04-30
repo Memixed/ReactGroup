@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Memo no deja de ver anime
         </a>
       </header>
     </div>
